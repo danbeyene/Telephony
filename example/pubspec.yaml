@@ -16,7 +16,7 @@ dependencies:
     # When depending on this package from a real application you should use:
     #   telephony: ^x.y.z
 
-  another_telephony:
+  telephony:
     # When depending on this package from a real application you should use:
     #   telephony: ^x.y.z
     # See https://dart.dev/tools/pub/dependencies#version-constraints
